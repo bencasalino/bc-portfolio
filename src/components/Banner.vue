@@ -27,6 +27,8 @@ export default {
   animation: parallax_bg linear 40s infinite;
 }
 
+
+
 @keyframes parallax_bg {
   100% {
     background-position-y: -1200px, 1000px, 300px, 0px;
